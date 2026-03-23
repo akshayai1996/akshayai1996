@@ -11,7 +11,7 @@
   <a href="mailto:akshaysolankikumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-akshaysolankikumar@gmail.com-red?style=flat&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/akshay-solanki-30117b179/">
+  <a href="https://www.linkedin.com/in/akshay-jatin-solanki/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20Jatin%20Solanki-blue?style=flat&logo=linkedin">
   </a>
   <a href="https://github.com/akshayai1996">
@@ -53,11 +53,7 @@ Instead of building one big project, I prefer creating **many focused tools**, e
 - VS Code
 
 ### Interests
-- Automation engineering
-- Developer tooling
-- Numerical computing
-- Lightweight web apps
-- Productivity tools
+- Automation engineering - Developer tooling - Numerical computing - Lightweight web apps - Productivity tools
 
 ---
 
@@ -76,60 +72,43 @@ Tools that enhance Excel productivity and workflow automation. Repositories incl
 - CopyFilteredWithFormat
 
 These tools focus on:
-- improving spreadsheet usability
-- reducing repetitive work
-- advanced Excel utilities
+- improving spreadsheet usability - reducing repetitive work - advanced Excel utilities
 
 ---
 
 ## Python & Computational Projects
 Repositories related to numerical computation and scripting. Examples:
-- PYTHONSCRIPTS
-- cubic-solver
-- numericaleqnsolver
-- numericalintegration
+- PYTHONSCRIPTS - cubic-solver - numericaleqnsolver - numericalintegration
 
 Topics include:
-- equation solving
-- mathematical utilities
-- scripting tools
+- equation solving - mathematical utilities - scripting tools
 
 ---
 
 ## Web Applications & Experiments
 Projects exploring UI tools and web functionality. Examples:
-- Htmlfun
-- personal-diary-webapp
-- GOOGLE-APPSCRIPT-WEBAPP-TODOLIST
+- Htmlfun - personal-diary-webapp - GOOGLE-APPSCRIPT-WEBAPP-TODOLIST
 
 These projects demonstrate:
-- frontend experimentation
-- small productivity apps
-- web-based utilities
+- frontend experimentation - small productivity apps - web-based utilities
 
 ---
 
 ## Algorithms, Games & Frameworks
 Projects exploring algorithms and game development. Examples:
-- chess-agent-framework
-- Java-Snake-
+- chess-agent-framework - Java-Snake-
 
 These repositories experiment with:
-- algorithmic logic
-- game mechanics
-- agent-based systems
+- algorithmic logic - game mechanics - agent-based systems
 
 ---
 
 ## Utility & Concept Projects
 Smaller focused projects that solve specific tasks. Examples:
-- Marriage-Biodata-Maker
-- openrouter-model-chat_interface_via_api
+- Marriage-Biodata-Maker - openrouter-model-chat_interface_via_api
 
 These demonstrate:
-- quick utility development
-- API integrations
-- lightweight tools
+- quick utility development - API integrations - lightweight tools
 
 ---
 
@@ -160,7 +139,7 @@ Each project explores a new idea or technique.
 # Connect With Me
 
 Email akshaysolankikumar@gmail.com
-LinkedIn https://www.linkedin.com/in/akshay-solanki-30117b179/
+LinkedIn https://www.linkedin.com/in/akshay-jatin-solanki/
 GitHub https://github.com/akshayai1996
 
 ---
